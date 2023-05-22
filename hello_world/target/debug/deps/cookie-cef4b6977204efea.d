@@ -1,0 +1,11 @@
+C:\Users\gamc1\OneDrive\Escritorio\THE_RUST_PROGRAMMING_LAGUAGE\hello_world\guessing_game\hello_world\target\debug\deps\cookie-cef4b6977204efea.rmeta: C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.17.0\src\lib.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.17.0\src\builder.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.17.0\src\parse.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.17.0\src\jar.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.17.0\src\delta.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.17.0\src\draft.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.17.0\src\expiration.rs
+
+C:\Users\gamc1\OneDrive\Escritorio\THE_RUST_PROGRAMMING_LAGUAGE\hello_world\guessing_game\hello_world\target\debug\deps\cookie-cef4b6977204efea.d: C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.17.0\src\lib.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.17.0\src\builder.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.17.0\src\parse.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.17.0\src\jar.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.17.0\src\delta.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.17.0\src\draft.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.17.0\src\expiration.rs
+
+C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.17.0\src\lib.rs:
+C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.17.0\src\builder.rs:
+C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.17.0\src\parse.rs:
+C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.17.0\src\jar.rs:
+C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.17.0\src\delta.rs:
+C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.17.0\src\draft.rs:
+C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.17.0\src\expiration.rs:

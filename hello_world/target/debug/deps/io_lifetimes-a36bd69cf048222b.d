@@ -1,0 +1,10 @@
+C:\Users\gamc1\OneDrive\Escritorio\THE_RUST_PROGRAMMING_LAGUAGE\hello_world\guessing_game\hello_world\target\debug\deps\io_lifetimes-a36bd69cf048222b.rmeta: C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\lib.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\portability.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\traits.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\example_ffi.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\raw.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\views.rs
+
+C:\Users\gamc1\OneDrive\Escritorio\THE_RUST_PROGRAMMING_LAGUAGE\hello_world\guessing_game\hello_world\target\debug\deps\io_lifetimes-a36bd69cf048222b.d: C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\lib.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\portability.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\traits.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\example_ffi.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\raw.rs C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\views.rs
+
+C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\lib.rs:
+C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\portability.rs:
+C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\traits.rs:
+C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\example_ffi.rs:
+C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\raw.rs:
+C:\Users\gamc1\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-1.0.10\src\views.rs:
